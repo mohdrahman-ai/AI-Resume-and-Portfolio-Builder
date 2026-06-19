@@ -75,13 +75,13 @@ AI-Resume-and-Portfolio-Builder/
 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_LINK
+https://github.com/mohdrahman-ai/AI-Resume-and-Portfolio-Builder
 ```
 
 3. Run the application
 
 ```bash
-streamlit run app.py
+https://ai-resume-and-portfolio-builder-09.streamlit.app/
 ```
 
 ---
