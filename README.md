@@ -13,14 +13,16 @@ Developed as part of the Edunet Foundation AICTE Internship Program (May 2026 Ba
 
 | Attribute | Details |
 |------------|------------|
-| Developer | Mohammed Abdul Rahman |
-| University / Institute | JNTUH University College of Engineering Palair |
+| Intern Name | Mohammed Abdul Rahman |
+| University | JNTUH University College of Engineering Palair |
 | Student Roll Number | 23XY1A0524 |
-| Internship Program | Edunet Foundation AICTE Internship |
-| Domain | Artificial Intelligence |
+| Foundation | Edunet Foundation |
+| Internship Name | IBM SkillsBuild AICTE Internship |
+|AICTE Student ID | STU6976153e7cc851769346366 |
+| Internship Domain | Artificial Intelligence |
 | Project Title | AI Resume & Portfolio Builder |
 | Tools Used | Python, Streamlit |
-| Duration | May 2026 – June 2026 |
+| Duration | 11th May 2026 – 21th June 2026 |
 
 ---
 
@@ -32,7 +34,7 @@ The application automatically generates a structured resume, provides career rec
 
 ---
 
-## 🚀 Features
+## Features
 
 ✅ Resume Generation
 
@@ -48,7 +50,7 @@ The application automatically generates a structured resume, provides career rec
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Streamlit
@@ -56,7 +58,7 @@ The application automatically generates a structured resume, provides career rec
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 AI-Resume-and-Portfolio-Builder/
 
@@ -68,18 +70,12 @@ AI-Resume-and-Portfolio-Builder/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository
 
 ```bash
 git clone YOUR_GITHUB_LINK
-```
-
-2. Install dependencies
-
-```bash
-pip install -r requirements.txt
 ```
 
 3. Run the application
@@ -90,7 +86,7 @@ streamlit run app.py
 
 ---
 
-## 💡 Future Enhancements
+##  Future Enhancements
 
 - PDF Resume Download
 - Multiple Resume Templates
@@ -115,4 +111,5 @@ Mohammed Abdul Rahman
 Computer Science Engineering
 
 JNTUH University College of Engineering Palair
+
 Streamlit app link - https://ai-resume-and-portfolio-builder-09.streamlit.app/
