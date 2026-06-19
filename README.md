@@ -98,9 +98,9 @@ https://ai-resume-and-portfolio-builder-09.streamlit.app/
 
 ## 🔗 Links
 
-GitHub Repository: YOUR_GITHUB_LINK
+GitHub Repository: https://github.com/mohdrahman-ai/AI-Resume-and-Portfolio-Builder
 
-Live Demo: YOUR_STREAMLIT_LINK
+Live Demo: https://ai-resume-and-portfolio-builder-09.streamlit.app/
 
 ---
 
