@@ -40,6 +40,8 @@ GitHub Repository: https://github.com/mohdrahman-ai/AI-Resume-and-Portfolio-Buil
 
 Streamlit app: https://ai-resume-and-portfolio-builder-09.streamlit.app/
 
+---
+
 ## Features
 
 - Resume Generation
