@@ -26,7 +26,7 @@ Developed as part of the Edunet Foundation AICTE Internship Program (May 2026 Ba
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 AI Resume & Portfolio Builder is a Streamlit-based web application that helps students and job seekers create professional resumes instantly by entering their educational details, skills, projects, and certifications.
 
@@ -34,19 +34,25 @@ The application automatically generates a structured resume, provides career rec
 
 ---
 
+## 🔗 Project Links
+
+GitHub Repository: https://github.com/mohdrahman-ai/AI-Resume-and-Portfolio-Builder
+
+Streamlit app: https://ai-resume-and-portfolio-builder-09.streamlit.app/
+
 ## Features
 
-✅ Resume Generation
+- Resume Generation
 
-✅ ATS Score Prediction
+- ATS Score Prediction
 
-✅ Career Role Recommendation
+- Career Role Recommendation
 
-✅ Skills-Based Analysis
+- Skills-Based Analysis
 
-✅ Download Resume Option
+- Download Resume Option
 
-✅ User-Friendly Interface
+- User-Friendly Interface
 
 ---
 
@@ -70,22 +76,6 @@ AI-Resume-and-Portfolio-Builder/
 
 ---
 
-##  How to Run
-
-1. Clone the repository
-
-```bash
-https://github.com/mohdrahman-ai/AI-Resume-and-Portfolio-Builder
-```
-
-3. Run the application
-
-```bash
-https://ai-resume-and-portfolio-builder-09.streamlit.app/
-```
-
----
-
 ##  Future Enhancements
 
 - PDF Resume Download
@@ -93,14 +83,6 @@ https://ai-resume-and-portfolio-builder-09.streamlit.app/
 - AI-Powered Resume Suggestions
 - Portfolio Website Export
 - Advanced ATS Analysis
-
----
-
-## 🔗 Links
-
-GitHub Repository: https://github.com/mohdrahman-ai/AI-Resume-and-Portfolio-Builder
-
-Live Demo: https://ai-resume-and-portfolio-builder-09.streamlit.app/
 
 ---
 
